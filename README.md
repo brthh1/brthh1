@@ -1,3 +1,2 @@
-## Hi there 👋
-# berthaa ✦
-*informatics student · making things*
+Hi there berthaa 👋
+informatics student ~making things
